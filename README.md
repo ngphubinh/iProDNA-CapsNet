@@ -1,9 +1,5 @@
----
-title: 'iProDNA-CapsNet: Identifying Protein-DNA Binding Residues using Capsule Neural Networks'
-author: Binh P. Nguyen, Quang H. Nguyen, Giang-Nam Doan-Ngoc, Thanh-Hoang Nguyen-Vo and Susanto Rahardja
-output: html_document
----
-
+# iProDNA-CapsNet: Identifying Protein-DNA Binding Residues using Capsule Neural Networks
+Binh P. Nguyen, Quang H. Nguyen, Giang-Nam Doan-Ngoc, Thanh-Hoang Nguyen-Vo and Susanto Rahardja
 
 
 ## Background
